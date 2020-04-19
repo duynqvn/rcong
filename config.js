@@ -6,6 +6,6 @@
 
 var vars = {
     file : 'index.html',
-    path : 'http://localhost',//path to the index.html
+    path : 'https://duynqvn.github.io/rcong/',//path to the index.html
     theme : 'theasys',
 };
